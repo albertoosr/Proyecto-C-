@@ -1,0 +1,17 @@
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\bin\Debug\Music-Lib.exe.config
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\bin\Debug\Music-Lib.exe
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\bin\Debug\Music-Lib.pdb
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music-Lib.csprojAssemblyReference.cache
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music_Lib.Form1.resources
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music_Lib.Properties.Resources.resources
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music-Lib.csproj.GenerateResource.cache
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music-Lib.csproj.CoreCompileInputs.cache
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music-Lib.exe
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music-Lib.pdb
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music-Lib.csproj.ResolveComReference.cache
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music_Lib.reproduccion.resources
+C:\Users\Carri\Documents\C#\Music-Lib\Music-Lib\obj\Debug\Music_Lib.registro.resources
